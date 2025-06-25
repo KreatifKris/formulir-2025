@@ -12,20 +12,20 @@ Sales A: $1200
 Sales B: $1500
 Sales C: $800
 Sales D: $2000
-Sales E: $1700
+Sales E: $17000
 Pendapatan dari Usaha Kecil
 
 Usaha A: $2000
-Usaha B: $3500
+Usaha B: $350
 Usaha C: $1500
 Usaha D: $4000
-Usaha E: $2800
+Usaha E: $280
 Pendapatan Freelance
 
 Freelancer A: $1000
 Freelancer B: $1800
 Freelancer C: $2200
-Freelancer D: $1500
+Freelancer D: $500
 Freelancer E: $2500
 Pendapatan dari Proyek Sampingan
 
