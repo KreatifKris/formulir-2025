@@ -2,8 +2,8 @@ Kumpulan data pemasukan (Active incomes) :
 Gaji Bulanan
 
 Pekerja A: $3500
-Pekerja B: $4200
-Pekerja C: $2800
+Pekerja B: $43000
+Pekerja C: $28000000
 Pekerja D: $5000
 Pekerja E: $3800
 Komisi Penjualan
@@ -17,13 +17,13 @@ Pendapatan dari Usaha Kecil
 
 Usaha A: $2000
 Usaha B: $350
-Usaha C: $1500
+Usaha C: $2500
 Usaha D: $4000
 Usaha E: $280
 Pendapatan Freelance
 
 Freelancer A: $1000
-Freelancer B: $1800
+Freelancer B: $1200
 Freelancer C: $2200
 Freelancer D: $500
 Freelancer E: $2500
